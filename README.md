@@ -1,16 +1,18 @@
+# Multi-agent System for non-Holonomic Racing (MuSHR)
+The Multi-agent System for non-Holonomic Racing (MuSHR) is an open-source robotic hardware and software platform for learning and researching AI in a the setting of autonomous vehicles and mobile robotics.
+
+https://mushr.io/
+
 # MuSHR Racecar Build Instructions
 ____
  *[Link](https://github.com/planc509/mushr_docs/blob/master/v3_1_bill_of_materials.pdf) to Bill of Materials*
-
 
 ---
 
 *This Wiki provides instructions for building the MuSHR Racecar. For each section, we recommend reading through each of the section's steps before attempting it.*
 
-**Steps**
-
-[TOC]
-
+**Youtube Tutorial**
+https://www.youtube.com/watch?v=NP7qljzG3RU&list=PLU9BrzGX4PH2DHZzxOg2gEkLMXhpkS7fV
 ___
 ## VESC Preparation 
 ---
